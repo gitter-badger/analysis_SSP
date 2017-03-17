@@ -1,0 +1,51 @@
+.chbx-label{
+    font-weight: bold;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #6a7989;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.date-container{
+    margin: 14px;
+    margin-top: 22px;
+}
+
+.calendar{
+	width: 130px;
+}
+
+.comment-box{
+	margin-top: 22px;
+}
+
+.btn-modal{
+	margin-top: 22px;
+	text-align: center;
+}
+
+.box{
+	border: solid 1px #D9D9D9;
+	margin: 15px 0px;
+	border-radius: 5px;
+	padding-bottom: 15px;
+}
+
+.box-title{
+	margin-left: 20px;
+	margin-top: -10px;
+}
+.box-title span{
+	color: #D9D9D9;
+	background-color: white;
+	font-weight: bold;
+}
+
+.radios{
+	margin-top: 5px;
+}
+.radios div{
+	display: inline-block;
+	margin-right: 10px;
+	margin-left: 5px;
+}
