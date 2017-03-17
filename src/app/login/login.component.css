@@ -1,0 +1,20 @@
+#tittle{
+    text-align: center;
+}
+#logoGob{
+    position: relative;
+    top: 42px;
+    text-align: center;
+}
+
+#login{
+    top: 50px;
+}
+
+.bigger-let{
+	font-size: 17px;
+}
+
+.marg-down{
+	margin-bottom: 20px;
+}
