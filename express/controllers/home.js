@@ -10,7 +10,7 @@ module.exports.login=function(req,res,next){
 			var fakeToken='sdcfkwpefpcpwmekc';
 			return res.json({token:fakeToken});
 		}else{
-			return res.status(404).send('User no logged. Check console');
+			return res.json('User no logged. Check console');
 		}
 	});
 };
