@@ -1,0 +1,37 @@
+{
+  "name"         : "express-server",
+  "descriptions" : "",
+  "author"       : "",
+  "version"      : "0.0.0",
+  "private"      : true,
+
+  "engines" : {
+    "node" : "7.0.0"
+  },
+
+  "scripts": {
+    "start"         : "node main",
+    "start-stagign" : "ENV=staging node main",
+    "startdevserver": "webpack-express-dev-server"
+  },
+
+  "dependencies": {
+    "body-parser"         : "1.15.x",
+    "cookie-parser"       : "~1.4.3",
+    "debug"               : "~2.2.0",
+    "express"             : "~4.14.0",
+    "express-formidable"  : "^1.0.0",
+    "jade"                : "~1.11.0",
+    "jsonwebtoken"        : "^7.2.1",
+    "morgan"              : "~1.7.0",
+    "serve-favicon"       : "~2.3.0",
+    "kerberos"            : "^0.0.23",
+    "mongodb"             : "^2.2.25"
+  },
+
+  "devDependencies": {
+    "webpack": "^1.14.0",
+    "webpack-express-dev-server": "git+https://github.com/l-urence/webpack-express-dev-server.git",
+    "webpack-node-externals": "^1.5.4"
+  }
+}

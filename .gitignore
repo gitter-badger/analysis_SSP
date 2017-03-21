@@ -6,6 +6,8 @@
 
 # dependencies
 /node_modules
+/express/data_base
+/express/node_modules
 
 # IDEs and editors
 /.idea
