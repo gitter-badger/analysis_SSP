@@ -1,5 +1,7 @@
 # AnalysisSSP
 
+[![Join the chat at https://gitter.im/analysis_SSP/Lobby](https://badges.gitter.im/analysis_SSP/Lobby.svg)](https://gitter.im/analysis_SSP/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
 ## Development server
